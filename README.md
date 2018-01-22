@@ -1,3 +1,5 @@
 # PizzaOrderService
-API based on open API Specifications.
+API based on open API Specifications. 
+
+# Rest API.
 Using Spring Boot Java IDE used IntelliJ.
